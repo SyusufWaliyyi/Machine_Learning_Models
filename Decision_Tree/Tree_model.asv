@@ -1,0 +1,1 @@
+data = readtable('brest_cancer.csv'); % Load the breast cancer dataset
